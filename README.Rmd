@@ -1,7 +1,7 @@
 
 ## Data visualisation with R and ggplot2 
 
-<img align="right" src=../20180315_IntroductionToR_Wolfson_Cambridge/images/R_logo.png width="150">
+<img align="right" src=../../../20180315_IntroductionToR_Wolfson_Cambridge/blob/master/images/R_logo.png width="150">
 
 - Date: 31st May 2018, 6 - 7pm
 - Series: Wolfson College [Skills for Academic Success](https://www.wolfson.cam.ac.uk/study-skills)
@@ -337,7 +337,7 @@ This work is distributed under a Creative Commons [CC0 license](https://en.wikip
 Our sponsors:
 
 <p align="center">
-<img src=../20171024_GitHub_Chemistry_Cambridge/images/UniversityCambridge_logo.png height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/CRUKCI_logo.jpg height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/Jisc_logo.png height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/WellcomeTrust_logo.jpg height="50">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/UniversityCambridge_logo.png height="50"> <img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/CRUKCI_logo.jpg height="50"> <img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/Jisc_logo.png height="50"> <img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/WellcomeTrust_logo.jpg height="50">
 </p>
 
 
