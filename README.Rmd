@@ -8,7 +8,6 @@
 - Location: [Gatsby room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), [Wolfson college](https://goo.gl/maps/aR6a5FWrLoR2), University of Cambridge, UK
 - Trainer: Sergio Martínez Cuesta
 - Register [here](https://www.eventbrite.co.uk/e/skills-for-academic-success-data-visualisation-using-r-and-ggplot2-tickets-45290341631)
-- Materials available here: https://tinyurl.com/2018-DataVisR-Wolfson
 
 
 
