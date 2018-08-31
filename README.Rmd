@@ -301,6 +301,7 @@ Books:
 - [Data Visualization for Social Science. A practical introduction with R and ggplot2](http://socviz.co/)
 - [ggplot2: Elegant Graphics for Data Analysis (Use R!)](https://www.amazon.com/ggplot2-Elegant-Graphics-Data-Analysis/dp/0387981403)
 - [R packages](http://r-pkgs.had.co.nz/)
+- [plotly for R](http://plotly-book.cpsievert.me/)
 
 Courses:
 
