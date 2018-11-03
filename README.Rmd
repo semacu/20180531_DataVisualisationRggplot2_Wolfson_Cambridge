@@ -302,6 +302,7 @@ Books:
 - [ggplot2: Elegant Graphics for Data Analysis (Use R!)](https://www.amazon.com/ggplot2-Elegant-Graphics-Data-Analysis/dp/0387981403)
 - [R packages](http://r-pkgs.had.co.nz/)
 - [plotly for R](http://plotly-book.cpsievert.me/)
+- [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 
 Courses:
 
