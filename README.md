@@ -307,6 +307,8 @@ Books:
 
 Courses:
 
+- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/index.html)
+- Statistical Inference via Data Science [A moderndive into R and the tidyverse](https://moderndive.com/)
 - [CRUK-CI R crash course](https://bioinformatics-core-shared-training.github.io/r-crash-course/)
 - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
 - [Karl Broman's mini tutorials](http://kbroman.org/pages/tutorials.html)
